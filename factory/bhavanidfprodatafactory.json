@@ -1,0 +1,9 @@
+{
+	"name": "bhavanidfprodatafactory",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bee1b078-5e1d-43e3-a0ab-9887c2e6855c",
+		"tenantId": "a8eec281-aaa3-4dae-ac9b-9a398b9215e7"
+	}
+}
